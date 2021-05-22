@@ -1,0 +1,11 @@
+0 silly argv { _: [ 'create' ], lernaVersion: '4.0.0', '$0': 'lerna', name: 'pkg0' }
+1 notice cli v4.0.0
+2 verbose rootPath /Users/larry/vscode2/lerna/lerna-hello0
+3 info versioning independent
+4 error Error: Command failed with exit code 1: git config --get user.email
+4 error     at makeError (/Users/larry/.nvm/versions/node/v14.5.0/lib/node_modules/lerna/node_modules/execa/lib/error.js:59:11)
+4 error     at Function.module.exports.sync (/Users/larry/.nvm/versions/node/v14.5.0/lib/node_modules/lerna/node_modules/execa/index.js:186:17)
+4 error     at Object.execSync (/Users/larry/.nvm/versions/node/v14.5.0/lib/node_modules/lerna/node_modules/@lerna/child-process/index.js:39:16)
+4 error     at CreateCommand.gitConfig (/Users/larry/.nvm/versions/node/v14.5.0/lib/node_modules/lerna/node_modules/@lerna/create/index.js:181:25)
+4 error     at CreateCommand.initialize (/Users/larry/.nvm/versions/node/v14.5.0/lib/node_modules/lerna/node_modules/@lerna/create/index.js:107:47)
+4 error     at /Users/larry/.nvm/versions/node/v14.5.0/lib/node_modules/lerna/node_modules/@lerna/command/index.js:274:24
