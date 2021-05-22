@@ -1,5 +1,5 @@
 {
-  "name": "larry-pkg01234",
+  "name": "larry-pkg0",
   "version": "1.0.4",
   "description": "> TODO: description",
   "author": "larry <larrywangsun@qq.com>",
@@ -26,5 +26,5 @@
   "devDependencies": {
     "lodash": "^4.17.21"
   },
-  "gitHead": "d15871eaa492e3eb7679268e8b67cf8af90b79cd"
+  "gitHead": "f2068d63dce376afa40c9c2f479392420f86e174"
 }
