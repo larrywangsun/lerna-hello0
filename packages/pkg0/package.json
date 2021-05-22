@@ -1,10 +1,10 @@
 {
-  "name": "pkg0",
+  "name": "larry-pkg0",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "larry <larrywangsun@qq.com>",
   "homepage": "https://github.com/larrywangsun/lerna-hello0#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/pkg0.js",
   "directories": {
     "lib": "lib",
@@ -25,5 +25,6 @@
   },
   "devDependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "48cbbbe884047a5d7523e3f570a66aa607ac5d80"
 }
